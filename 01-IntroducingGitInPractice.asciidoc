@@ -1,6 +1,2 @@
-= Git in Practice
 == Chapter 1
 // TODO: think of funny first line that editor will aprove.
-
-== Chapter 2
-// TODO: write two chapters
